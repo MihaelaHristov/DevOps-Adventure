@@ -16,7 +16,7 @@ import (
 
 // todo: can we move these as well?
 const (
-	DATABASE string = "./tmp/minitwit.db"
+	DATABASE string = "./tmp/minitwit_empty.db"
 	PERPAGE  int    = 30
 )
 
